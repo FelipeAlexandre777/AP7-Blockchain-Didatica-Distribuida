@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AP7 — Blockchain Didática Distribuída
 
 **Disciplina:** Sistemas Distribuídos — OBBGSIN.037  
@@ -213,6 +212,3 @@ AP7-Blockchain-Didatica-Distribuida/
 4. Mostrar `/resolve` adotando a cadeia válida mais longa.
 5. Mostrar `/lab/tamper/1` e `/validate` retornando `false`.
 6. Encerrar explicando que comprimento não equivale a consenso seguro e citar as limitações da tabela.
-=======
-# AP7-Blockchain-Didatica-Distribuida
->>>>>>> 3b54a8e8d54976e18e1ef2813884ea9f39f49a92
