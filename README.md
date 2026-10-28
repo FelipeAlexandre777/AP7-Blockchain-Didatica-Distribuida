@@ -1,1 +1,0 @@
-# AP7-Blockchain-Didatica-Distribuida
